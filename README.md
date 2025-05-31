@@ -1,2 +1,2 @@
 # MakiBot
-Mon bot discord en python
+Mon bot discord en javascript
